@@ -1,4 +1,4 @@
-# Front-end Technical Test
+# Front-end
 
 <p align="center">A small application to visualise an audio file with WaveSurfer.</p>
 
